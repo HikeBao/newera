@@ -3,7 +3,6 @@
         <span>测试</span>
         <img src="https://v3.cn.vuejs.org/images/options-api.png" alt="">
         <img src="./options-api.png" alt="">
-        https://v3.cn.vuejs.org/images/options-api.png
     </div>
 </template>
 

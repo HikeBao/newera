@@ -6,9 +6,12 @@
   "author": "chan <hikebao@163.com>",
   "license": "MIT",
   "scripts": {
-    "build": "webpack --config ./src/demo1/webpack.config.js"
+    "build": "webpack --config ./src/demo2/webpack.config.js"
   },
   "devDependencies": {
+    "vue": "2.6.12",
+    "vue-loader": "15.9.7",
+    "vue-template-compiler": "2.6.12",
     "webpack": "^5.44.0",
     "webpack-cli": "^4.7.2"
   }

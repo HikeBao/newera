@@ -6,14 +6,16 @@
   "author": "chan <hikebao@163.com>",
   "license": "MIT",
   "scripts": {
-    "build": "webpack --config ./src/demo4/webpack.config.js"
+    "build": "webpack --config ./src/demo5/webpack.config.js"
   },
   "devDependencies": {
     "css-loader": "^5.2.6",
+    "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.3.2",
     "less": "^4.1.1",
     "less-loader": "^10.0.1",
     "style-loader": "^3.0.0",
+    "url-loader": "^4.1.1",
     "vue": "2.6.12",
     "vue-loader": "15.9.7",
     "vue-template-compiler": "2.6.12",
